@@ -38,3 +38,6 @@ Added project documentation as part of a GitHub collaborative development workfl
 
 Example:
 python visual_odometry.py
+## Conflict Demo
+
+This change was made in the feature branch.
