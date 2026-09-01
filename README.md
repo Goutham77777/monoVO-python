@@ -40,4 +40,6 @@ Example:
 python visual_odometry.py
 ## Conflict Demo
 
-This change was made in the feature branch.
+## Conflict Demo
+
+This change combines the feature branch and master branch updates.
