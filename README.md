@@ -30,3 +30,11 @@ This project implements a simple monocular visual odometry system in Python.
 ### Contribution
 
 Added project documentation as part of a GitHub collaborative development workflow.
+## How to Run
+
+1. Install Python on your system.
+2. Install the required Python packages.
+3. Run the visual odometry program using Python.
+
+Example:
+python visual_odometry.py
